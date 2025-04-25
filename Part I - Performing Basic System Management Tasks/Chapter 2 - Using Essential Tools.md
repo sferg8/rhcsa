@@ -1,5 +1,3 @@
-# Chapter 2: Basic Shell Skills and Shell Environment
-
 ## Basic Shell Skills
 
 - Before learning individual commands, it's important to understand how to interact with the shell environment.
