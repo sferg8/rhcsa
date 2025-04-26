@@ -18,6 +18,7 @@
 - The system runs on a broad range of hardware platforms and is certified for use with many enterprise software packages.
 - A Red Hat subscription provides access to software repositories, security updates, official documentation, and technical support.
 
+---
 ## Getting the Software
 
 - Multiple methods are available to acquire installation media and access RHEL-based systems.
@@ -78,6 +79,7 @@
 - Physical installations are possible but less convenient due to lack of rollback capability.
 - Creating a fresh VM per chapter can help isolate exercises and reduce environment issues.
 
+---
 ## Performing an Installation
 
 - Begin by booting the installation media via ISO or physical DVD in the target system.
@@ -95,6 +97,7 @@
 - After installation completes, reboot the system and finalize the setup.
 - Log in with the credentials you created and verify the system is functioning.
 
+---
 ## Summary
 
 - RHEL is the standard system for RHCSA certification preparation.
@@ -105,6 +108,7 @@
 - Use virtualization for flexibility and snapshot recovery.
 - The installation process covers localization, network, user, and storage configuration.
 
+---
 ## Define Key Terms
 
 - **distribution** – A complete operating system built around the Linux kernel, packaged with software tools and utilities.
