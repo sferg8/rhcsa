@@ -1,3 +1,7 @@
+to be cleaned up later
+
+
+
 cp file /tmp and cp file /tmp/ behave identically if /tmp is a directory. But here are the rules:
 
 If destination is an existing directory (with or without /), the file is copied into it:
